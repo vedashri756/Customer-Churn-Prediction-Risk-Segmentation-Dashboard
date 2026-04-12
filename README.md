@@ -24,6 +24,7 @@ Service usage
 Target variable: Churn (Yes / No)
 
 # Project Structure
+```
 Customer-Churn/
 │
 ├── data/
@@ -46,7 +47,7 @@ Customer-Churn/
 │   └── evaluation.py
 │
 └── README.md
-
+```
 
 Each notebook is fully independent and reproducible.
 
